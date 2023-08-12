@@ -9,5 +9,6 @@ public class Main{
     public static void main(String[] args){
         int a=addition(5,6);
         System.out.println(a);
+        System.out.println("Bonjour depuis Collaborateur A !");
     }
 }
