@@ -7,6 +7,7 @@ public class Main{
         System.out.println("bonjour");
     }
     public static void main(String[] args){
-        System.out.println("test");
+        int a=addition(5,6);
+        System.out.println(a);
     }
 }
